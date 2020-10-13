@@ -1,0 +1,21 @@
+﻿  c1.cpp
+C:\Users\user\source\repos\c1\c1\c1.cpp(49,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\source\repos\c1\c1\c1.cpp(70,38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\source\repos\c1\c1\c1.cpp(71,38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\source\repos\c1\c1\c1.cpp(72,38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\source\repos\c1\c1\c1.cpp(76,30): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\user\source\repos\c1\c1\c1.cpp(77,30): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\user\source\repos\c1\c1\c1.cpp(78,30): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+  c1.vcxproj -> C:\Users\user\source\repos\c1\x64\Debug\c1.exe
